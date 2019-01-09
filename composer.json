@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "src/Controller",
+            "Model\\": "src/Model",
+            "View\\": "src/View",
+            "Config\\": "api/Config",
+            "Objects\\": "api/Objects"
+        }
+    },
+    "require": {
+        "ext-pdo": "*",
+      "ext-json": "*"
+    }
+}
