@@ -5,6 +5,7 @@
   <li>Poprawiono działanie MVC</li>
   <li>Zabezpieczono przed SQL Injection</li>
   <li>Zastosowano skrócone <i>instrukcje IF</i></li>
+  <li>Wprowadzono kilka innych poprawek</li>
 </ul>
 
 <h4>REST API</h4>
