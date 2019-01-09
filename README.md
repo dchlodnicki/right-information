@@ -1,4 +1,4 @@
-<h3>Link do aplikacji: https://educer.midaz.studio/</h3>
+<h3>Link do aplikacji: https://midaz.studio/</h3>
 
 <ul>
   <li>Dodano <i>autoloader</i> zgodnie z PSR-4, PSR-0</li>
@@ -10,7 +10,7 @@
 
 <h4>REST API</h4>
 
-Punkt wejścia do API: <i>https://educer.midaz.studio/api</i></li>
+Punkt wejścia do API: <i>https://midaz.studio/api</i></li>
 
 <ol>
   Punkty końcowe
